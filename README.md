@@ -1,0 +1,2 @@
+# firebase-flutter
+initializer firebase
